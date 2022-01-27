@@ -3,13 +3,11 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 
 ### Education
 
+- Ph.D., Statistics, HKU, 2019.9-.
 
+- B.Sc., Math, Sun Yat-sen University, 2015-2019.
 
-# Ph.D., Statistics, HKU, 2019.9-
-
-
-- Bulleted
-- List
+- Visiting Undergrad, Math, UC Berkeley, 2017.
 
 
 
