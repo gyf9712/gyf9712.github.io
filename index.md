@@ -13,7 +13,7 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 ### Research
 
 - "The Lagom is Better: High Dimensional Portfolio Selection with Cardinality Constraints" (Joint work with Jinhong Du and Xueqin Wang), Major revision at Journal of the American Statistical Association (JASA).
-- "High-Dimensional HAR-It\^o Model and Its Statistical Inference" (Joint work with Huiling Yuan and Guodong Li), In prepartion.
+- "High-Dimensional HAR-It\hat{o} Model and Its Statistical Inference" (Joint work with Huiling Yuan and Guodong Li), In prepartion.
 
 ### Manuscript & Unpublished
 
