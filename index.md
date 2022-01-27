@@ -22,4 +22,10 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 - "A machine learning framework for stock selection" (Joint work with Jinhong Du, Xingyu Fu, Xiuwen Duan, Tao Dong and Mingwen Liu)
 
 ### Teaching Experience
+Teaching Assistant (HKU)
+- Business Logistics, 2019 Fall
+- Data Visulization, 2020 Spring
+- Statistical Machine Learning, 2020 Fall
+- Data Mining Techniques, 2021 Spring & 2021 Fall
+- Time Series Analysis, 2022 Spring
 
