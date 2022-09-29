@@ -12,8 +12,9 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 
 ### Research
 
-- "The Lagom is Better: High Dimensional Portfolio Selection with Cardinality Constraints" (Joint work with Jinhong Du and Xueqin Wang), *Major revision at Journal of the American Statistical Association (JASA)*.
+- "The Lagom is Better: High Dimensional Portfolio Selection with Cardinality Constraints" (Joint work with Jinhong Du and Xueqin Wang), *Tentatively Accepted at Journal of the American Statistical Association (JASA)*.
 - "High-Dimensional HAR-Ito Model and Its Statistical Inference" (Joint work with Huiling Yuan and Guodong Li), *In prepartion*.
+- "Conditional Value-at-Risk Portfolio Optimization in High Dimensions" (Joint work with Jinhong Du, Junxia You and Xueqin Wang)
 
 ### Manuscript & Unpublished
 
@@ -23,9 +24,10 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 
 ### Teaching Experience
 Teaching Assistant (HKU)
-- Business Logistics, 2019 Fall
-- Data Visulization, 2020 Spring
-- Statistical Machine Learning, 2020 Fall
-- Data Mining Techniques, 2021 Spring & 2021 Fall
-- Time Series Analysis, 2022 Spring
+- Business Logistics, 2019 Fall (UG course)
+- Data Visulization, 2020 Spring (UG course)
+- Statistical Machine Learning, 2020 Fall (UG course)
+- Data Mining Techniques, 2021 Spring & 2021 Fall (Master course)
+- Time Series Analysis, 2022 Spring (UG course)
+- Advanced Statistical Inference, 2022 Fall (PhD course)
 
