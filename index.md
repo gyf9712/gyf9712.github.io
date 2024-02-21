@@ -1,9 +1,9 @@
 ## Welcome to Yifeng's Pages
-I am currently a third-year PhD student in Statistics at The University of Hongkong (HKU), supervised by Prof. [Guodong Li](https://web.hku.hk/~gdli/) and Dr. Aijun Zhang. Prior to HKU, I obtained my Bachelor degree from Sun Yat-sen University, supervised by Prof. [Xueqin Wang](https://bs.ustc.edu.cn/chinese/profile-650.html).
+I am currently a Postdoctoral Research Associate at St. Jude Children's Research Hospital. Previously, I obtained PhD in Statistics at The University of Hong Kong (HKU), supervised by Prof. [Guodong Li]([https://web.hku.hk/~gdli/](https://gdli-stat.github.io/)) and Dr. Aijun Zhang. Prior to HKU, I obtained my Bachelor's degree from Sun Yat-sen University, supervised by Prof. [Xueqin Wang](https://bs.ustc.edu.cn/chinese/profile-650.html).
 
 ### Education
 
-- Ph.D., Statistics, HKU, 2019.9-.
+- Ph.D., Statistics, HKU, 2019.9-2024.1.
 
 - B.Sc., Math, Sun Yat-sen University, 2015-2019.
 
@@ -13,7 +13,7 @@ I am currently a third-year PhD student in Statistics at The University of Hongk
 ### Research
 
 - "High Dimensional Portfolio Selection with Cardinality Constraints" (Joint work with Jinhong Du and Xueqin Wang), *Accepted at Journal of the American Statistical Association (JASA)*.
-- "High-Dimensional HAR-Ito Model and Its Statistical Inference" (Joint work with Huiling Yuan and Guodong Li), *In prepartion*.
+- "High-Dimensional HAR-Ito Model and Its Statistical Inference" (Joint work with Huiling Yuan and Guodong Li), *Submitted*.
 - "Conditional Value-at-Risk Portfolio Optimization in High Dimensions" (Joint work with Jinhong Du, Junxia You and Xueqin Wang)
 
 ### Manuscript & Unpublished
