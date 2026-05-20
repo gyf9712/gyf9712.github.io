@@ -1,0 +1,12 @@
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 4
+cv_pdf: /assets/pdf/CV_YifengGuo.pdf
+cv_format: rendercv
+description: Click the PDF icon (top-right) to download the full CV.
+toc:
+  sidebar: left
+---

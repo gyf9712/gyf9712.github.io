@@ -1,0 +1,11 @@
+# Social media links and usernames
+# Displayed in the order defined here
+# Docs: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/CV_YifengGuo.pdf
+email: Yifeng.Guo@stjude.org
+scholar_userid: 0hHXvrgAAAAJ
+github_username: gyf9712
+# orcid_id: # add your ORCID id (e.g., 0000-0000-0000-0000)
+# linkedin_username: # add your LinkedIn username
+# x_username: # add your X / Twitter username
+rss_icon: false

@@ -1,0 +1,124 @@
+cv:
+  name: Yifeng Guo
+  label: Postdoctoral Research Associate (Statistics & Machine Learning)
+  email: Yifeng.Guo@stjude.org
+  phone: (+1) 901-264-4831
+  location: Memphis, TN, USA
+  website: https://gyf9712.github.io/
+  summary: >-
+    My research lies at the intersection of high-dimensional statistics and artificial
+    intelligence, with a focus on explainable AI and complex data modeling. I develop
+    theoretically grounded methods for feature importance, functional data analysis,
+    and high-dimensional inference, with applications in computational biology, medicine,
+    and finance. My recent work has appeared in leading venues in statistics and
+    artificial intelligence, including JASA, IEEE JBHI, and ICLR.
+
+  sections:
+    Experience:
+      - company: St. Jude Children's Research Hospital
+        position: Postdoctoral Research Associate, Department of Computational Biology
+        location: Memphis, TN, USA
+        start_date: 2024-02
+        end_date: Present
+        summary: "Advisor: Dr. Xiang Chen. Machine learning and statistical methods for biomedical and single-cell data analysis."
+
+      - company: Demetech Co., Ltd.
+        position: Co-Founder and Chief Technology Officer
+        location: Hong Kong
+        start_date: 2024-06
+        end_date: Present
+        summary: "AI-driven clinical decision support and statistical modeling for medical data analysis. Supported by the HKSTP Ideation Program and HKU-TEC Seed Fund."
+
+    Education:
+      - institution: The University of Hong Kong (HKU)
+        location: Hong Kong SAR
+        url: https://www.hku.hk/
+        area: Statistics
+        studyType: Ph.D.
+        start_date: 2019-09
+        end_date: 2024-01
+        highlights:
+          - "Dissertation: High-dimensional Statistical Methods for Financial Data Analysis"
+          - "Advisors: Prof. Guodong Li and Dr. Aijun Zhang"
+
+      - institution: Sun Yat-sen University (SYSU)
+        location: Guangzhou, China
+        url: https://www.sysu.edu.cn/
+        area: Mathematics and Applied Mathematics
+        studyType: B.S.
+        start_date: 2015-09
+        end_date: 2019-06
+        highlights:
+          - "Advisor: Prof. Xueqin Wang"
+
+      - institution: Southern University of Science and Technology (SUSTech)
+        location: Shenzhen, China
+        area: Business School
+        studyType: Visiting Student
+        start_date: 2023-04
+        end_date: 2023-08
+        highlights:
+          - "Advisor: Prof. Li Jin"
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA, USA
+        url: https://math.berkeley.edu/
+        area: Mathematics
+        studyType: Visiting Student
+        start_date: 2017-08
+        end_date: 2017-12
+
+    Honors and Awards:
+      - title: HKU-TEC Seed Program (HKD 100,000)
+        awarder: The University of Hong Kong & HKSTP
+        date: 2025-03
+
+      - title: Ideation Program (HKD 100,000)
+        awarder: Hong Kong Science and Technology Parks (HKSTP)
+        date: 2024-06
+
+      - title: First Place, Minghong Talks Competition (RMB 13,000)
+        date: 2023-10
+
+      - title: Excellent Teaching Award
+        awarder: Department of Statistics and Actuarial Science, HKU
+        date: 2021-07
+
+      - title: Postgraduate Scholarship
+        awarder: The University of Hong Kong
+        date: 2019-09
+
+    Invited Talks and Conference Presentations:
+      - bullet: "**IMS New Researchers Conference Asia** — Invited talk: *Dynamic Functional Factor Model with Multiple Breaks.* Hong Kong, China, Jun. 2026."
+      - bullet: "**ICLR 2026** — Poster: *Flow-Disentangled Feature Importance.* Rio de Janeiro, Brazil, Apr. 2026."
+      - bullet: "**Joint Statistical Meetings (JSM)** — Contributed talk: *HAR-Itô Models and High-dimensional HAR Modeling for High-frequency Data.* Portland, USA, Aug. 2024."
+      - bullet: "**6th International Conference on Econometrics and Statistics** — Contributed talk: *Conditional Value-at-Risk Portfolio Optimization in High Dimensions.* Session Chair: *Asset Allocation.* Tokyo, Japan, Aug. 2023."
+      - bullet: "**ICSA China Conference** — Invited talk: *High Dimensional Portfolio Selection with Cardinality Constraints.* Discussant: *Optimization in Statistics.* Chengdu, China, Jun. 2023."
+      - bullet: "**ASMDA International Conference** — Contributed talk: *High Dimensional Portfolio Selection with Cardinality Constraints.* Heraklion, Greece, Jun. 2023."
+      - bullet: "**11th National R Conference** — Contributed talk: *Robust Log-optimal Strategy with Reinforcement Learning.* Shanghai, China, Dec. 2018."
+
+    Teaching:
+      - bullet: "Teaching Assistant, Department of Statistics and Actuarial Science, HKU"
+      - bullet: "*Advanced Statistical Inference* (PhD/Graduate level), Autumn 2022"
+      - bullet: "*Advanced Quantitative Risk Management* (Graduate level), Spring 2023"
+      - bullet: "*Time Series Analysis* (Undergraduate level), Spring 2022"
+      - bullet: "*Data Mining Techniques* (Graduate level), Spring & Autumn 2021"
+      - bullet: "*Statistical Machine Learning* (Undergraduate level), Autumn 2020"
+      - bullet: "*Data Visualization* (Undergraduate level), Spring 2020"
+      - bullet: "*Business Logistics* (Undergraduate level), Autumn 2019"
+
+    Academic Service:
+      - bullet: "**Journal Referee:** Statistics and Its Interface (×2); IEEE Transactions on Neural Networks and Learning Systems."
+      - bullet: "**Conference Referee:** STAI-X 2026."
+      - bullet: "**Professional Memberships:** American Statistical Association (ASA); Institute of Mathematical Statistics (IMS); IEEE."
+
+    Skills:
+      - name: Programming
+        level: Advanced
+        keywords: "R, Python, LaTeX"
+
+    Languages:
+      - name: Chinese
+        summary: "Native"
+      - name: English
+        summary: "Fluent"
