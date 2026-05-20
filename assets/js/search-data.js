@@ -37,7 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-our-paper-ai-driven-prediction-of-cancer-pain-episodes-a-hybrid-decision-support-approach-has-been-accepted-at-ieee-jbhi",
+        },{id: "news-successfully-defended-my-ph-d-thesis-at-the-university-of-hong-kong-under-the-supervision-of-prof-guodong-li-and-dr-aijun-zhang",
+          title: 'Successfully defended my Ph.D. thesis at The University of Hong Kong under the...',
+          description: "",
+          section: "News",},{id: "news-presented-flow-disentangled-feature-importance-as-a-poster-at-iclr-2026-in-rio-de-janeiro-brazil",
+          title: 'Presented Flow-Disentangled Feature Importance as a poster at ICLR 2026 in Rio de...',
+          description: "",
+          section: "News",},{id: "news-our-paper-ai-driven-prediction-of-cancer-pain-episodes-a-hybrid-decision-support-approach-has-been-accepted-at-ieee-jbhi",
           title: 'Our paper AI-Driven Prediction of Cancer Pain Episodes: A Hybrid Decision Support Approach...',
           description: "",
           section: "News",},{
