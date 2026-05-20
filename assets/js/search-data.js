@@ -37,26 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-successfully-defended-my-ph-d-thesis-at-the-university-of-hong-kong-under-the-supervision-of-prof-guodong-li-and-dr-aijun-zhang",
-          title: 'Successfully defended my Ph.D. thesis at The University of Hong Kong under the...',
-          description: "",
-          section: "News",},{id: "news-started-as-a-postdoctoral-research-associate-in-the-department-of-computational-biology-at-st-jude-children-s-research-hospital-working-with-dr-xiang-chen",
-          title: 'Started as a Postdoctoral Research Associate in the Department of Computational Biology at...',
-          description: "",
-          section: "News",},{id: "news-contributed-talk-har-itô-models-and-high-dimensional-har-modeling-for-high-frequency-data-at-jsm-2024-in-portland-usa",
-          title: 'Contributed talk: HAR-Itô Models and High-dimensional HAR Modeling for High-frequency Data at JSM...',
-          description: "",
-          section: "News",},{id: "news-awarded-the-hku-tec-seed-program-hkd-100-000-from-hku-amp-amp-hkstp-supporting-demetech-s-ai-driven-clinical-decision-support-work",
-          title: 'Awarded the HKU-TEC Seed Program (HKD 100,000) from HKU &amp;amp;amp; HKSTP, supporting Demetech’s...',
-          description: "",
-          section: "News",},{id: "news-conditional-value-at-risk-portfolio-optimization-in-high-dimensions-joint-with-jin-hong-du-and-xueqin-wang-accepted-at-statistics-and-its-interface",
-          title: 'Conditional Value-at-Risk Portfolio Optimization in High Dimensions (joint with Jin-Hong Du and Xueqin...',
-          description: "",
-          section: "News",},{id: "news-our-paper-ai-driven-prediction-of-cancer-pain-episodes-a-hybrid-decision-support-approach-has-been-accepted-at-ieee-jbhi",
+        },{id: "news-our-paper-ai-driven-prediction-of-cancer-pain-episodes-a-hybrid-decision-support-approach-has-been-accepted-at-ieee-jbhi",
           title: 'Our paper AI-Driven Prediction of Cancer Pain Episodes: A Hybrid Decision Support Approach...',
-          description: "",
-          section: "News",},{id: "news-presented-flow-disentangled-feature-importance-as-a-poster-at-iclr-2026-in-rio-de-janeiro-brazil",
-          title: 'Presented Flow-Disentangled Feature Importance as a poster at ICLR 2026 in Rio de...',
           description: "",
           section: "News",},{
         id: 'social-cv',
@@ -85,6 +67,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/gyf9712", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/yifeng-guo-79a851177", "_blank");
         },
       },{
         id: 'social-rss',
