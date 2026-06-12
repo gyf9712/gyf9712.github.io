@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-ai-driven-prediction-of-cancer-pain-episodes-a-hybrid-decision-support-approach-has-been-accepted-at-ieee-jbhi",
           title: 'Our paper AI-Driven Prediction of Cancer Pain Episodes: A Hybrid Decision Support Approach...',
           description: "",
+          section: "News",},{id: "news-beyond-importance-interchange-sobol-sensitivity-reveals-task-specific-content-channels-in-transformer-components-accepted-at-stai-x-2026-will-present-at-harvard-university-on-aug-1",
+          title: 'Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components accepted at...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
