@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-08'
 papers:
   0hHXvrgAAAAJ:2osOgNQ5qMEC:
-    citations: 30
+    citations: 31
     title: High-dimensional portfolio selection with cardinality constraints
     year: '2023'
   0hHXvrgAAAAJ:9yKSN-GCB0IC:
@@ -18,9 +18,13 @@ papers:
     title: Conditional Value-at-Risk Portfolio Optimization in High Dimensions
     year: '2026'
   0hHXvrgAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: 'Tobacco cultivation in Yunnan: an integrated analysis of economic trends and diversification'
     year: '2025'
+  0hHXvrgAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components'
+    year: '2026'
   0hHXvrgAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: HAR-Ito models and high-dimensional HAR modeling for high-frequency data
@@ -30,7 +34,7 @@ papers:
     title: A machine learning framework for stock selection
     year: '2018'
   0hHXvrgAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 22
     title: Robust log-optimal strategy with reinforcement learning
     year: '2018'
   0hHXvrgAAAAJ:zYLM7Y9cAGgC:
