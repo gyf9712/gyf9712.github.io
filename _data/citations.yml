@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-03'
 papers:
   0hHXvrgAAAAJ:2osOgNQ5qMEC:
-    citations: 31
+    citations: 29
     title: High-dimensional portfolio selection with cardinality constraints
     year: '2023'
   0hHXvrgAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: Conditional Value-at-Risk Portfolio Optimization in High Dimensions
     year: '2026'
   0hHXvrgAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 2
     title: 'Tobacco cultivation in Yunnan: an integrated analysis of economic trends and diversification'
     year: '2025'
   0hHXvrgAAAAJ:W7OEmFMy1HYC:
@@ -34,7 +34,7 @@ papers:
     title: A machine learning framework for stock selection
     year: '2018'
   0hHXvrgAAAAJ:u5HHmVD_uO8C:
-    citations: 22
+    citations: 20
     title: Robust log-optimal strategy with reinforcement learning
     year: '2018'
   0hHXvrgAAAAJ:zYLM7Y9cAGgC:
