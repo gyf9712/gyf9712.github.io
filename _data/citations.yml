@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-24'
 papers:
   0hHXvrgAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 31
     title: High-dimensional portfolio selection with cardinality constraints
     year: '2023'
   0hHXvrgAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: Explainable Recommendation Systems by Generalized Additive Models with Manifest and Latent Interactions
     year: '2020'
   0hHXvrgAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 2
     title: 'AI-Driven Prediction of Cancer Pain Episodes: A Hybrid Decision Support Approach'
     year: '2026'
   0hHXvrgAAAAJ:Tyk-4Ss8FVUC:
@@ -22,15 +22,19 @@ papers:
     title: 'Tobacco cultivation in Yunnan: an integrated analysis of economic trends and diversification'
     year: '2025'
   0hHXvrgAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: 'Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components'
+    year: '2026'
+  0hHXvrgAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Evidence-Grounded Interactive AI for Adaptive Medical Education
     year: '2026'
   0hHXvrgAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: HAR-Ito models and high-dimensional HAR modeling for high-frequency data
     year: '2023'
   0hHXvrgAAAAJ:u-x6o8ySG0sC:
-    citations: 43
+    citations: 44
     title: A machine learning framework for stock selection
     year: '2018'
   0hHXvrgAAAAJ:u5HHmVD_uO8C:
