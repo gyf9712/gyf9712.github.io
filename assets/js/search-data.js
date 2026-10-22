@@ -49,6 +49,9 @@ ninja.data = [{
           section: "News",},{id: "news-beyond-importance-interchange-sobol-sensitivity-reveals-task-specific-content-channels-in-transformer-components-accepted-at-stai-x-2026-will-present-at-harvard-university-on-aug-1",
           title: 'Beyond Importance: Interchange-Sobol Sensitivity Reveals Task-Specific Content Channels in Transformer Components accepted at...',
           description: "",
+          section: "News",},{id: "news-har-itô-models-and-high-dimensional-har-modeling-for-high-frequency-data-has-been-accepted-at-statistica-sinica",
+          title: 'HAR-Itô Models and High-dimensional HAR Modeling for High-frequency Data has been accepted at...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
